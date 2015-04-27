@@ -1,0 +1,4 @@
+This repository contains scripts to help analyze data contained in
+candis files.  See http://merlin.nmt.edu/software/candis/ for more
+information on the candis file format and the software that must be
+installed before using this software.
